@@ -87,3 +87,6 @@ typings/
 
 # Electron-Forge
 out/
+
+# 젯브레인
+.idea/
